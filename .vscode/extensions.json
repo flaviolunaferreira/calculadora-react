@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "hookyqr.beautify",
+    "passionkind.prettier-vscode-with-tabs",
+    "dbaeumer.vscode-eslint"
+  ]
+}
